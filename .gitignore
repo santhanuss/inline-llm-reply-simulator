@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local LLM binaries & models
+local_llm/llama/
+local_llm/models/
+
+# OS
+.DS_Store
+Thumbs.db
